@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7097
     wikipedia: http://en.wikipedia.org/wiki/Basil_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29051#Account-of-a-Voyage-of-Discoveryto-the-West-Coast-of-Corea-and-the-Great-Loo-Choo-Island
 gutenberg_issued: '2009-06-06'
 gutenberg_type: Text
 identifiers:
